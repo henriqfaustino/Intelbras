@@ -1,0 +1,1 @@
+Table error: manage.py migrate --run-syncdb
